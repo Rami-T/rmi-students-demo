@@ -1,7 +1,9 @@
 # rmi-students-demo
 NSY107 - TD Java RMI
 TD Java RMI
-On considère une application repartie qui facilite la gestion des étudiants dans une université. Dans cette application l’étudiant est décrit par son nom de type String et les notes de trois matières (Math, Physique et info). Les étudiants seront stockés sur le serveur de l’université, ce serveur devra inclure les fonctionnalités suivantes:
+On considère une application repartie qui facilite la gestion des étudiants dans une université. 
+Dans cette application l’étudiant est décrit par son nom de type String et les notes de trois matières (Math, Physique et info). 
+Les étudiants seront stockés sur le serveur de l’université, ce serveur devra inclure les fonctionnalités suivantes:
 
 1. Lister les noms des étudiants inscrits
 2. Donner le nombre des étudiants inscrits
@@ -27,3 +29,4 @@ running the client at the first time after starting the RMI service server, will
 #NSY107-> Students Count after removing Lama: 4
 #NSY107-> Students Count before adding Khalil: 4
 #NSY107-> Students Count after adding Khalil: 5
+
